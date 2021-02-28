@@ -1,0 +1,49 @@
+.aviso{
+    text-align: center;  
+}
+
+#botaoSubmit{
+    margin-left: 440px;
+    height: 60px;
+    width: 150px;
+}
+
+
+#section_BotoesNav{
+    text-align: center; 
+
+}
+
+#section_Cadastro,#section_ListaDados{
+   
+   background-color: gainsboro;
+   width: 70%;
+   margin: 6px 0px 0px 250px ;
+   
+}
+#section_ListaDados{
+    display: none;
+}
+
+
+table{
+    width: 100%;
+}
+
+td{
+    padding:0px 5px;
+}
+
+
+tr{
+    padding: 5px;
+   line-height: 30px;
+
+}
+
+tr#tituloTabela{
+    font-weight: bold;
+    background-color: rgba(0,0,0,0.6);
+    color: white;
+}
+
