@@ -64,20 +64,20 @@
  <ul>
   <li><img  alt="icone_BancoDeDados"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109437584-43bf4b00-7a04-11eb-8152-70cbe0f6737d.png"></img> Acesse o phpMyAdmin por meio do endereço (localhost/phpmyadmin/): <a href="http://localhost/phpmyadmin/">phpMyAdmin</a> e crie uma base de dados nomeando como >>> crudpdo <<< : 
    <p align="center">
-   <img  alt="gif_"  width="1200" height="550" src="https://user-images.githubusercontent.com/59892368/109440900-7bcd8a80-7a12-11eb-985b-23e6d2b0c6df.gif"></img>
+   <img  alt="gif_"  width="1300" height="500" src="https://user-images.githubusercontent.com/59892368/109440900-7bcd8a80-7a12-11eb-985b-23e6d2b0c6df.gif"></img>
 </p>
    </li>
 
    <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438047-d365f900-7a06-11eb-84d7-0d081c1a54ec.png"></img> Ainda dentro do phpMyAdmin, clique na base de dados criada anteriormente com o nome >>> crudpdo <<< e nas abas superiores acesse a opção "Importar" e logo após "Escolher arquivo". Selecione o arquivo contido aqui na pasta (BancoDeDados/crudpdo.sql).
    <p align="center">
-   <img  alt="gif_"  width="1200" height="550"  src="https://user-images.githubusercontent.com/59892368/109440927-87b94c80-7a12-11eb-9b3e-b67cf937f0c6.gif"></img>
+   <img  alt="gif_"  width="1300" height="500"  src="https://user-images.githubusercontent.com/59892368/109440927-87b94c80-7a12-11eb-9b3e-b67cf937f0c6.gif"></img>
 </p>
    </li>
    
    <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438095-145e0d80-7a07-11eb-8a8d-47f9288ea1a3.png"></img> Insira a pasta com arquivos da Interface Web e o PHP que se encontra neste repositório chamada de (CrudPHP) para que você tenha acesso Local por meio do Xampp pelo o caminho (C:\xampp\htdocs):
     
    <p align="center">
-   <img  alt="gif_"  width="1200" height="550"  src="https://user-images.githubusercontent.com/59892368/109441141-3198d900-7a13-11eb-819b-e1d49688ad04.gif"></img>
+   <img  alt="gif_"  width="1300" height="500" src="https://user-images.githubusercontent.com/59892368/109441141-3198d900-7a13-11eb-819b-e1d49688ad04.gif"></img>
 </p>
    </li>
    
