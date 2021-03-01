@@ -48,7 +48,7 @@
 
    <li><img  alt="icone_Configurando"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109435220-23898f00-79f8-11eb-944e-a546b38a673e.png"></img> Abra o Xampp e configure-o habilitando as opções Apache e MySQL :
    <p align="center">
-   <img  alt="gif_"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/109440851-5b9dcb80-7a12-11eb-9161-4197b24e25ee.gif)"></img>
+   <img  alt="gif_"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/109440851-5b9dcb80-7a12-11eb-9161-4197b24e25ee.gif"></img>
 </p>
    </li>
 
@@ -64,20 +64,20 @@
  <ul>
   <li><img  alt="icone_BancoDeDados"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109437584-43bf4b00-7a04-11eb-8152-70cbe0f6737d.png"></img> Acesse o phpMyAdmin por meio do endereço (localhost/phpmyadmin/): <a href="http://localhost/phpmyadmin/">phpMyAdmin</a> e crie uma base de dados nomeando como >>> crudpdo <<< : 
    <p align="center">
-   <img  alt="gif_"  width="1150" height="550" src="https://user-images.githubusercontent.com/59892368/109440900-7bcd8a80-7a12-11eb-985b-23e6d2b0c6df.gif"></img>
+   <img  alt="gif_"  width="1200" height="550" src="https://user-images.githubusercontent.com/59892368/109440900-7bcd8a80-7a12-11eb-985b-23e6d2b0c6df.gif"></img>
 </p>
    </li>
 
    <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438047-d365f900-7a06-11eb-84d7-0d081c1a54ec.png"></img> Ainda dentro do phpMyAdmin, clique na base de dados criada anteriormente com o nome >>> crudpdo <<< e nas abas superiores acesse a opção "Importar" e logo após "Escolher arquivo". Selecione o arquivo contido aqui na pasta (BancoDeDados/crudpdo.sql).
    <p align="center">
-   <img  alt="gif_"  width="1150" height="550" src="https://user-images.githubusercontent.com/59892368/109440927-87b94c80-7a12-11eb-9b3e-b67cf937f0c6.gif"></img>
+   <img  alt="gif_"  width="1200" height="550"  src="https://user-images.githubusercontent.com/59892368/109440927-87b94c80-7a12-11eb-9b3e-b67cf937f0c6.gif"></img>
 </p>
    </li>
    
    <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438095-145e0d80-7a07-11eb-8a8d-47f9288ea1a3.png"></img> Insira a pasta com arquivos da Interface Web e o PHP que se encontra neste repositório chamada de (CrudPHP) para que você tenha acesso Local por meio do Xampp pelo o caminho (C:\xampp\htdocs):
     
    <p align="center">
-   <img  alt="gif_"  width="1150" height="550" src="https://user-images.githubusercontent.com/59892368/109441141-3198d900-7a13-11eb-819b-e1d49688ad04.gif"></img>
+   <img  alt="gif_"  width="1200" height="550"  src="https://user-images.githubusercontent.com/59892368/109441141-3198d900-7a13-11eb-819b-e1d49688ad04.gif"></img>
 </p>
    </li>
    
@@ -97,7 +97,7 @@
  
   <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438593-70c22c80-7a09-11eb-8586-2e347dee0c86.png"></img> Digite na barra de endereço o seguinte (localhost/CrudPHP) : <a href="http://localhost/CrudPHP/">Acesso a Interface Web CRUD</a>  
    <p align="center">
-   <img  alt="gif_"  width="1150" height="550" src="https://user-images.githubusercontent.com/59892368/109441154-3f4e5e80-7a13-11eb-8e46-fb4eae383599.gif"></img>
+   <img  alt="gif_"  width="1200" height="550"  src="https://user-images.githubusercontent.com/59892368/109441154-3f4e5e80-7a13-11eb-8e46-fb4eae383599.gif"></img>
 </p>
    </li>
  
