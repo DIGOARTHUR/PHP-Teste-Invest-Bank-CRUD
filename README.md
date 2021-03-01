@@ -48,7 +48,7 @@
 
    <li><img  alt="icone_Configurando"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109435220-23898f00-79f8-11eb-944e-a546b38a673e.png"></img> Abra o Xampp e configure-o habilitando as opções Apache e MySQL :
    <p align="center">
-   <img  alt="gif_"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/109440851-5b9dcb80-7a12-11eb-9161-4197b24e25ee.gif"></img>
+   <img  alt="gif_"  width="516" height="400" src="https://user-images.githubusercontent.com/59892368/109440851-5b9dcb80-7a12-11eb-9161-4197b24e25ee.gif"></img>
 </p>
    </li>
 
