@@ -77,7 +77,7 @@
    <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438095-145e0d80-7a07-11eb-8a8d-47f9288ea1a3.png"></img> Insira a pasta com arquivos da Interface Web e o PHP que se encontra neste repositório chamada de (CrudPHP) para que você tenha acesso Local por meio do Xampp pelo o caminho (C:\xampp\htdocs):
     
    <p align="center">
-   <img  alt="gif_"  width="1200" height="480" src="https://user-images.githubusercontent.com/59892368/109441141-3198d900-7a13-11eb-819b-e1d49688ad04.gif"></img>
+   <img  alt="gif_"  width="1200" height="400" src="https://user-images.githubusercontent.com/59892368/109441141-3198d900-7a13-11eb-819b-e1d49688ad04.gif"></img>
 </p>
    </li>
    
