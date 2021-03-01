@@ -1,6 +1,6 @@
 # PHP - Teste Invest Bank [Estágio de Dev. Web - 2021]  <img  alt="skills"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/109432650-ebc81a80-79ea-11eb-9a86-31a0f95a5695.png">
 
->Desenvolvi aqui um projetinho CRUD utilizando a linguagem PHP. A ideia do CRUD se baseia em um sistema de 4 operações básicas relacionado ao Banco de Dados que se está trabalhando, são elas: Criar (Create), Ler (Read), Atualizar (Update) e Deletar (Delete). Utilizei aqui ferramentas como HTML, CSS E JavaScript para o desenvolvimento da Interface Web (FrontEnd), já para o Banco de Dados trabalhei com o phpMyAdmin responsável pela administração do MySQL e por último o PHP como ponte para a conexão entre as duas partes (BackEnd).
+>Desenvolvi um projetinho CRUD utilizando a linguagem PHP. A ideia do CRUD se baseia em um sistema de 4 operações básicas relacionado ao Banco de Dados que se está trabalhando, são elas: Criar (Create), Ler (Read), Atualizar (Update) e Deletar (Delete). Utilizei aqui ferramentas como HTML, CSS E JavaScript para o desenvolvimento da Interface Web (FrontEnd), já para o Banco de Dados trabalhei com o phpMyAdmin responsável pela administração do MySQL e por último o PHP como ponte para a conexão entre as duas partes (BackEnd).
 
 #### FERRAMENTAS:
 <p align="left">
@@ -74,13 +74,36 @@
 </p>
    </li>
    
-   <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438095-145e0d80-7a07-11eb-8a8d-47f9288ea1a3.png"></img> Insira a pasta com arquivos da Interface Web e o PHP que se encontra aqui (CrudPHP) para que você tenha acesso Local por meio do Xampp pelo o camninho (C:\xampp\htdocs):
+   <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438095-145e0d80-7a07-11eb-8a8d-47f9288ea1a3.png"></img> Insira a pasta com arquivos da Interface Web e o PHP que se encontra neste repositório chamada de (CrudPHP) para que você tenha acesso Local por meio do Xampp pelo o caminho (C:\xampp\htdocs):
     
    <p align="center">
    <img  alt="gif_"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/106384311-ee623080-63a8-11eb-9bf6-da6618680e6d.gif"></img>
 </p>
    </li>
-  
- 
+   
+   
+   
+   <li>
+ PRONTO! Agora podemos acessar a página e testar as funcionalidades.
+   </li>
+
 </ul>
 
+ <p>
+<h2 align="rigth"> <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/109438345-5c316480-7a08-11eb-9b09-f0dd5c2d3fbc.png"></img>Acessando a Interface Web</h2>
+</p>
+
+<ul>
+ 
+  <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438593-70c22c80-7a09-11eb-8586-2e347dee0c86.png"></img> Digite na barra de endereço o seguinte endereço (localhost/CrudPHP) : <a href="http://localhost/CrudPHP/">Acesso a Interface Web CRUD</a>  
+   <p align="center">
+   <img  alt="gif_"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/106384311-ee623080-63a8-11eb-9bf6-da6618680e6d.gif"></img>
+</p>
+   </li>
+ 
+ 
+
+ 
+
+ 
+</ul>
