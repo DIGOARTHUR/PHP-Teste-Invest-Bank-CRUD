@@ -95,7 +95,7 @@
 
 <ul>
  
-  <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438593-70c22c80-7a09-11eb-8586-2e347dee0c86.png"></img> Digite na barra de endereço o seguinte endereço (localhost/CrudPHP) : <a href="http://localhost/CrudPHP/">Acesso a Interface Web CRUD</a>  
+  <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438593-70c22c80-7a09-11eb-8586-2e347dee0c86.png"></img> Digite na barra de endereço o seguinte (localhost/CrudPHP) : <a href="http://localhost/CrudPHP/">Acesso a Interface Web CRUD</a>  
    <p align="center">
    <img  alt="gif_"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/106384311-ee623080-63a8-11eb-9bf6-da6618680e6d.gif"></img>
 </p>
