@@ -64,7 +64,7 @@
  <ul>
   <li><img  alt="icone_BancoDeDados"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109437584-43bf4b00-7a04-11eb-8152-70cbe0f6737d.png"></img> Acesse o phpMyAdmin por meio do endereço (localhost/phpmyadmin/): <a href="http://localhost/phpmyadmin/">phpMyAdmin</a> e crie uma base de dados nomeando como >>> crudpdo <<< : 
    <p align="center">
-   <img  alt="gif_"  width="516" height="452" src="https://user-images.githubusercontent.com/59892368/106384311-ee623080-63a8-11eb-9bf6-da6618680e6d.gif"></img>
+   <img  alt="gif_"  width="516" height="452" src=""></img>
 </p>
    </li>
 
