@@ -68,7 +68,7 @@
 </p>
    </li>
 
-   <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438047-d365f900-7a06-11eb-84d7-0d081c1a54ec.png"></img> Ainda dentro do phpMyAdmin, clique na base de dados criada anteriormente com o nome >>> crudpdo <<< e nas abas superiores acesse a opção "Importar" e logo após "Escolher arquivo". Selecione o arquivo contido aqui na pasta (BancoDeDados/crudpdo.sql).
+   <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438047-d365f900-7a06-11eb-84d7-0d081c1a54ec.png"></img> Ainda dentro do phpMyAdmin, clique na base de dados criada anteriormente com o nome >>> crudpdo <<< e nas abas superiores acesse a opção "Importar" e logo após "Escolher arquivo". Selecione o arquivo contido neste repositório com o seguinte nome (BancoDeDados/crudpdo.sql).
    <p align="center">
    <img  alt="gif_"  width="1300" height="500"  src="https://user-images.githubusercontent.com/59892368/109440927-87b94c80-7a12-11eb-9b3e-b67cf937f0c6.gif"></img>
 </p>
