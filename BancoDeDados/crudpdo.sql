@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 28-Fev-2021 às 16:35
+-- Tempo de geração: 01-Mar-2021 às 02:31
 -- Versão do servidor: 10.4.17-MariaDB
--- versão do PHP: 8.0.1
+-- versão do PHP: 7.3.27
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -39,7 +39,7 @@ CREATE TABLE `pessoa` (
 --
 
 INSERT INTO `pessoa` (`id`, `nome`, `telefone`, `email`) VALUES
-(18, 'Diego Arthur Bispo Justino de Oliveira', '(62) 9235-71554', 'digo.arthur@hotmail.com');
+(18, 'Diego Arthur Bispo Justino de Oliveira', '(62) 92351742', 'digo.arthur@hotmail.com');
 
 --
 -- Índices para tabelas despejadas
