@@ -1,6 +1,6 @@
 # PHP Crud - Teste Invest Bank [Estágio de Dev. Web - 2021]  <img  alt="skills"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/109432650-ebc81a80-79ea-11eb-9a86-31a0f95a5695.png">
 
->Desenvolvi um projetinho CRUD utilizando a linguagem PHP. A ideia do CRUD se baseia em um sistema de 4 operações básicas relacionado ao Banco de Dados que se está trabalhando, são elas: Criar (Create), Ler (Read), Atualizar (Update) e Deletar (Delete). Utilizei aqui ferramentas como HTML, CSS E JavaScript para o desenvolvimento da Interface Web (FrontEnd), já para o Banco de Dados trabalhei com o phpMyAdmin responsável pela administração do MySQL e por último o PHP como ponte para a conexão entre as duas partes (BackEnd).
+>Desenvolvi um projetinho CRUD utilizando a linguagem PHP. A ideia do CRUD se baseia em um sistema de 4 operações básicas relacionado ao Banco de Dados que se está trabalhando, são elas: Criar (Create), Ler (Read), Atualizar (Update) e Deletar (Delete). Utilizei aqui ferramentas como HTML, CSS E JavaScript para o desenvolvimento da Interface Web (FrontEnd), já para o Banco de Dados trabalhei com o phpMyAdmin responsável pela administração do MySQL e por último o PHP como ponte para a conexão entre as duas partes (BackEnd)..
 
 #### FERRAMENTAS:
 <p align="left">
