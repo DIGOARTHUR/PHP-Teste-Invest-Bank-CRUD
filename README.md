@@ -105,6 +105,6 @@
 
 <hr>
 <p>
-<h1> <img  alt="icon_Sources"  width="35" height="35" src="https://user-images.githubusercontent.com/59892368/108534741-3fcf5280-72b9-11eb-9d14-e7679c5d81ec.png"></img> Quero agradecer a Invest Bank por este desafio que me proporcionou aprender mais e mais. </h1>
+<h1>  Quero agradecer a Invest Bank por este desafio que me proporcionou aprender mais e mais. </h1>
 <h2>FEITO! </h2>
 </p>
