@@ -64,21 +64,24 @@
  <ul>
   <li><img  alt="icone_BancoDeDados"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109437584-43bf4b00-7a04-11eb-8152-70cbe0f6737d.png"></img> Acesse o phpMyAdmin por meio do endereço (localhost/phpmyadmin/): <a href="http://localhost/phpmyadmin/">phpMyAdmin</a> e crie uma base de dados nomeando-o como >>> crudpdo <<< : 
    <p align="center">
-   <img  alt="gif_"  width="1300" height="500" src="https://user-images.githubusercontent.com/59892368/109440900-7bcd8a80-7a12-11eb-985b-23e6d2b0c6df.gif"></img>
+  
+   <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115087175-15c69500-9ee4-11eb-9411-8b3486af189a.mp4"></video>
+ 
+ 
+   
 </p>
    </li>
 
    <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438047-d365f900-7a06-11eb-84d7-0d081c1a54ec.png"></img> Ainda dentro do phpMyAdmin, clique na base de dados criada anteriormente com o nome >>> crudpdo <<< e nas abas superiores acesse a opção "Importar" e logo após "Escolher arquivo". Selecione o arquivo contido neste repositório com o seguinte nome (BancoDeDados/crudpdo.sql).
    <p align="center">
-   <img  alt="gif_"  width="1300" height="500"  src="https://user-images.githubusercontent.com/59892368/109440927-87b94c80-7a12-11eb-9b3e-b67cf937f0c6.gif"></img>
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115087177-1828ef00-9ee4-11eb-9502-7c2668289442.mp4"></video>
 </p>
    </li>
    
    <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438095-145e0d80-7a07-11eb-8a8d-47f9288ea1a3.png"></img> Insira a pasta com arquivos da Interface Web e o PHP que se encontra neste repositório chamada de (CrudPHP) para que você tenha acesso Local por meio do Xampp pelo o caminho (C:\xampp\htdocs):
     
    <p align="center">
-   <img  alt="gif_"  width="" height="" src="https://user-images.githubusercontent.com/59892368/109441141-3198d900-7a13-11eb-819b-e1d49688ad04.gif"></img>
-</p>
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115087179-195a1c00-9ee4-11eb-8e77-d1bad5304cc6.mp4"></video>
    </li>
    
    
@@ -97,7 +100,8 @@
  
   <li><img  alt="icone_Arquivo"  width="30" height="30" src="https://user-images.githubusercontent.com/59892368/109438593-70c22c80-7a09-11eb-8586-2e347dee0c86.png"></img> Digite na barra de endereço: (localhost/CrudPHP) : <a href="http://localhost/CrudPHP/">Acesso a Interface Web CRUD</a>  
    <p align="center">
-   <img  alt="gif_"  width="1300" height="500"  src="https://user-images.githubusercontent.com/59892368/109441154-3f4e5e80-7a13-11eb-8e46-fb4eae383599.gif"></img>
+   <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/115087183-1a8b4900-9ee4-11eb-9539-8a09d97fae6a.mp4"></video>
+ 
 </p>
    </li>
  
